@@ -1,3 +1,1 @@
-# laminal-falah.github.io
-
-Personal Pages Web
+# Personal Pages Web
